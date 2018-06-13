@@ -1,0 +1,84 @@
+.col {
+    min-height: 30vh;
+    width: 25%;
+    background-size: 98%;
+    background-repeat: no-repeat;
+}
+.apple, .miniApple  {
+    background-image: url('../img/logo001.png')
+}
+.appleWhite, .miniAppleWhite {
+    background-image: url('../img/logo001Inv.png')
+}
+.NBC, .miniNBC {
+    background-image: url('../img/logo003.png')
+}
+.logoPic, .miniLogo {
+    background-image: url('../img/logo002.png')
+}
+.wynik {
+    width: 60%;
+    height: 60vw;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.koszulki {
+    min-height: 40px;
+    width: 40px;
+    background-size: 98%;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    display: block;
+    position: relative;
+    bottom: -200px;
+    left: 300px;
+}
+.czarna {
+background-image: url('../img/kBlack.png');
+}
+.biala {
+background-image: url('../img/kPink.png');
+}
+.fiolet {
+background-image: url('../img/kWhite.png');
+}
+.koszulkaKolor {
+    height: 20vh;
+    width: 30%;
+
+}
+.koszulkaKolorBlack {
+    background-image: url('../img/kBlack.png');
+}
+.koszulkaKolorWhite {
+    background-image: url('../img/kPink.png');
+}
+.koszulkaKolorFiolet {
+    background-image: url('../img/kWhite.png');
+}
+.logoMini{
+    height: 55px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    background-position: center;
+    margin-top: 5px;
+}
+.logoText {
+font-family: 'Arial';
+position: relative;
+text-align: center;
+margin-top: 80px;
+}
+.shirtColor{
+    width: 340px;
+    height: 420px;
+    border: 2px solid black;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 250px;
+    background-size: 140%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
